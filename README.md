@@ -15,3 +15,5 @@ The Higgs dataset contains 21 "low-level" features of the decay products and als
 A Wide and Deep network trains a linear layer side-by-side with a deep stack of dense layers. Wide and Deep networks are often effective on tabular datasets.
 
 Both the dataset and the model are very large therefore taking extremely huge amounts of time and resources, even for a GPU. So, to speed up training, I have used Kaggle's Tensor Processing Units (TPUs), an accelerator ideal for large workloads.
+
+### Please note in this repository only the validation part of the dataset has been uploaded. The entire dataset can be downloaded from https://www.kaggle.com/datasets/ryanholbrook/higgs-boson.
