@@ -12,7 +12,7 @@ The collision of protons at high energy can produce new particles like the Higgs
 The Higgs dataset contains 21 "low-level" features of the decay products and also 7 more "high-level" features derived from these.
 Wide and Deep Neural Networks
 
-A Wide and Deep network trains a linear layer side-by-side with a deep stack of dense layers. Wide and Deep networks are often effective on tabular datasets.[^1]
+A Wide and Deep network trains a linear layer side-by-side with a deep stack of dense layers. Wide and Deep networks are often effective on tabular datasets.
 
 Both the dataset and the model are much larger than what we used in the course. To speed up training, we'll use Kaggle's Tensor Processing Units (TPUs), an accelerator ideal for large workloads.
 
